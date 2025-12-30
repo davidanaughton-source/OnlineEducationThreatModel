@@ -1666,9 +1666,18 @@
             }
           }
         ]
+      },
+      {
+        "id": 1,
+        "title": "Level 1 - Authentication & User Management",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.5.0",
+        "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "",
     "threatTop": 0
   }
