@@ -1,0 +1,26 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Online Education Platform Threat Model",
+    "owner": "David",
+    "description": "This threat model analyses an online education platform that enables users to register, enrol in courses, access learning materials, communicate with instructors via chat and participate in video conferencing sessions. The platform processes sensitive personal and payment information and integrates with third-party services for payment processing, cloud storage and video conferencing.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Level 0 Online Education Platform",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
