@@ -2472,9 +2472,18 @@
             }
           }
         ]
+      },
+      {
+        "id": 2,
+        "title": "Level 1 - Payment Processing",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.5.0",
+        "cells": []
       }
     ],
-    "diagramTop": 2,
+    "diagramTop": 3,
     "reviewer": "",
     "threatTop": 0
   }
